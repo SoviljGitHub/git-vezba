@@ -28,7 +28,7 @@ Projekat je napravljen radi ucenja Git i GitHub komandi.
 
 
 
-\## Autor
+## Autor
 
 
 
