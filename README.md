@@ -1,4 +1,4 @@
-\# Git vezba
+# Git vezba
 
 
 
@@ -6,7 +6,7 @@ Ovo je moj prvi Git i GitHub vezba projekat.
 
 
 
-\## O projektu
+## O projektu
 
 
 
@@ -14,17 +14,17 @@ Projekat je napravljen radi ucenja Git i GitHub komandi.
 
 
 
-\## Sta ucim
+## Sta ucim
 
 
 
-\- Git osnove
+- Git osnove
 
-\- Rad sa granama
+- Rad sa granama
 
-\- Git merge i resavanje konflikata
+- Git merge i resavanje konflikata
 
-\- GitHub remote repozitorijumi
+- GitHub remote repozitorijumi
 
 
 
